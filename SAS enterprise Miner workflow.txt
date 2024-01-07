@@ -7,4 +7,4 @@ SAS enterprise Miner workflow
 5) Connect to various Decsion Tree models with different parameters in order to tune the hyperparameters
 6) Use ensemble node to connect all the Decision Models 
 7) Add Gradient Boosting node and run the model
-8) Add model comparision and compare the performance.
+8) Add model comparison and compare the performance.
