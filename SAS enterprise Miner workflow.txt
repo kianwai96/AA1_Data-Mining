@@ -1,0 +1,10 @@
+SAS enterprise Miner workflow
+
+1) Import data node to import the processed csv file
+2) Connect to impute data node and run different imputation methods.
+3) Check the stastisc of the original data and after imputation data.
+4) Connect to Data Partition with 60% training data and 40% validation data.
+5) Connect to various Decsion Tree models with different parameters in order to tune the hyperparameters
+6) Use ensemble node to connect all the Decision Models 
+7) Add Gradient Boosting node and run the model
+8) Add model comparision and compare the performance.

@@ -1,0 +1,6 @@
+Talend Data Preparation
+
+1) Load the csv file from Talend Data integration, the combined dataset.
+2) Check each column and notice that the class data type are not standard
+3) Remove the unwanted strings and replace with the correct class
+4) Output the file for SAS enterprise miner to load and perform the rest of the data mining process.

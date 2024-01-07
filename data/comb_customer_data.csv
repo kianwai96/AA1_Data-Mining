@@ -1,0 +1,251 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchase,TotalSpent,FavoriteCategory,LastPurchaseDate,Occupation,WebsiteVisits,Churn,StoreVisits,Satisfactionscore
+1,25,M,Perakk,Gold,11,565,Electronics,15/12/2023,Engineer,20,0,2,1
+2,30,F,Kuala Lumpur,Silver,7,692,Electronics,20/11/2023,Teacher,15,0,2,2
+3,40,Male,Johor,Bronze,20,1746,Clothing,5/12/2023,Doctor,10,1,24,10
+4,35,Female,Negeri Sembilan,Silver,1,,Home Goods,10/10/2023,Software Developer,25,0,4,1
+5,28,Male,Perlis,Bronze,15,,Clothing,28/12/2023,Marketing Specialist,18,0,5,2
+6,45,Female,Kelantan,Silver,20,857,Electronics,2/11/2023,Accountant,12,1,15,9
+7,32,Male,Terengganu,Gold,3,815,Home Goods,18/12/2023,Architect,,0,6,
+8,38,Female,Sabah,Silver,4,886,Electronics,15/11/2023,Graphic Designer,,0,6,
+9,27,Male,Sarawakk,Silver,19,1011,Clothing,30/09/2023,Financial Analyst,30,1,30,6
+10,42,Female,Pahangg,Gold,10,859,Home Goods,10/12/2023,Lawyer,,0,3,
+11,29,Female,Selangor,Silver,15,673,Electronics,22/12/2023,Engineer,,0,7,
+12,34,Male,Perak,Bronze,30,1581,Home Goods,8/11/2023,Teacher,14,1,11,9
+13,31,Female,Kuala Lumpur,Gold,15,789,Clothing,25/12/2023,Doctor,21,0,9,
+14,36,Male,Johor,Silver,10,792,Clothing,5/10/2023,Software Developer,24,0,9,
+15,26,Female,Negeri Sembilan,Silver,27,1247,Electronics,30/12/2023,Marketing Specialist,16,1,27,9
+16,44,Male,Perlis,Bronze,4,638,Home Goods,18/11/2023,Accountant,11,0,4,
+17,33,Female,Kelantan,Silver,14,548,Home Goods,12/12/2023,Architect,23,0,10,
+18,39,Male,Terengganu,Gold,17,1623,Clothing,25/11/2023,Graphic Designer,18,1,13,6
+19,28,Female,Sabah,Gold,13,739,Electronics,15/09/2023,Financial Analyst,29,0,2,1
+20,43,Male,Sarawak,Silver,1,941,Home Goods,8/12/2023,Lawyer,27,0,10,4
+21,30,Female,Pahang,Gold,25,1098,Clothing,20/12/2023,Engineer,20,1,10,9
+22,35,Male,Selangor,Silver,4,,Home Goods,5/11/2023,Teacher,15,0,5,2
+23,41,Female,Perak,Silver,8,811,Electronics,23/12/2023,Doctor,22,0,3,2
+24,37,Male,Kuala Lumpur,Bronze,19,1335,Home Goods,15/10/2023,Software Developer,26,1,25,6
+25,29,Female,Johor,Silver,13,921,Clothing,28/12/2023,Marketing Specialist,17,0,10,3
+26,46,Male,Negeri Sembilan,Silver,2,688,Home Goods,12/11/2023,Accountant,13,0,7,1
+27,34,Female,Perlis,Bronze,28,1795,Clothing,18/12/2023,Architect,21,1,12,8
+28,40,Male,Kelantan,Gold,3,611,Electronics,20/11/2023,Graphic Designer,16,0,1,1
+29,27,Female,Terengganu,Bronze,6,,Home Goods,25/09/2023,Financial Analyst,28,0,8,5
+30,42,Male,Sabah,Bronze,28,,Clothing,10/12/2023,Lawyer,25,1,24,6
+31,31,Female,Sarawak,Silver,10,962,Electronics,22/12/2023,Engineer,19,0,9,3
+32,36,Male,Pahang,Gold,11,762,Electronics,8/11/2023,Teacher,14,0,2,2
+33,33,Female,Selangor,Bronze,23,733,Clothing,25/12/2023,Doctor,23,1,11,8
+34,38,Male,Perak,Silver,4,914,Home Goods,5/10/2023,Software Developer,27,0,1,2
+35,28,Female,Kuala Lumpur,Gold,12,756,Home Goods,30/12/2023,Marketing Specialist,18,0,2,6
+36,45,Male,Johor,Gold,24,757,Electronics,18/11/2023,Accountant,12,1,14,6
+37,32,Female,Negeri Sembilan,Silver,11,544,Clothing,12/12/2023,Architect,22,0,3,4
+38,39,Male,Perlis,Bronze,7,515,Clothing,25/11/2023,Graphic Designer,17,0,2,6
+39,26,Female,Kelantan,Silver,23,1180,Electronics,15/09/2023,Financial Analyst,30,1,15,9
+40,43,Male,Terengganu,Bronze,1,715,Home Goods,8/12/2023,Lawyer,27,0,9,6
+41,29,Female,Sabah,Silver,3,987,Home Goods,22/12/2023,Engineer,19,0,10,1
+42,34,Male,Sarawak,Gold,25,1323,Clothing,8/11/2023,Teacher,14,1,21,10
+43,31,Female,Pahang,Bronze,1,980,Electronics,25/12/2023,Doctor,21,0,3,3
+44,36,Male,Selangor,Silver,4,939,Home Goods,5/10/2023,Software Developer,24,0,3,4
+45,26,Female,Perak,Silver,28,1872,Clothing,30/12/2023,Marketing Specialist,16,1,12,8
+46,44,Male,Kuala Lumpur,Bronze,5,571,Electronics,18/11/2023,Accountant,11,0,4,3
+47,33,Female,Johor,Gold,3,693,Home Goods,12/12/2023,Architect,23,0,10,4
+48,39,Male,Negeri Sembilan,Silver,30,1396,Clothing,25/11/2023,Graphic Designer,18,1,20,8
+49,28,Female,Perlis,Bronze,14,536,Home Goods,15/09/2023,Financial Analyst,29,0,5,5
+50,43,Male,Kelantan,Silver,8,641,Clothing,8/12/2023,Lawyer,27,0,6,3
+51,31,Female,Perak,Silver,17,1908,Electronics,20/12/2023,Engineer,19,1,25,8
+52,36,Male,Kuala Lumpur,Bronze,7,708,Clothing,5/11/2023,Teacher,14,0,1,5
+53,42,Female,Johor,Gold,12,774,Electronics,23/12/2023,Doctor,23,0,5,3
+54,38,Male,Negeri Sembilan,Silver,29,706,Clothing,15/10/2023,Software Developer,26,1,30,6
+55,30,Female,Perlis,Bronze,5,977,Home Goods,28/12/2023,Marketing Specialist,17,0,9,5
+56,47,Male,Kelantan,Silver,6,893,Clothing,12/11/2023,Accountant,13,0,7,1
+57,34,Female,Terengganu,Gold,19,1411,Electronics,18/12/2023,Architect,21,1,21,10
+58,40,Male,Sabah,Silver,8,926,Home Goods,20/11/2023,Graphic Designer,16,0,2,2
+59,29,Female,Sarawak,Gold,10,689,Clothing,25/09/2023,Financial Analyst,28,0,3,3
+60,44,Male,Pahang,Silver,20,1541,Electronics,10/12/2023,Lawyer,25,1,16,9
+61,31,Female,Selangor,Bronze,10,760,Home Goods,22/12/2023,Engineer,19,0,6,4
+62,36,Male,Perak,Gold,1,924,Clothing,8/11/2023,Teacher,14,0,9,4
+63,33,Female,Kuala Lumpur,Bronze,23,1811,Electronics,25/12/2023,Doctor,23,1,25,6
+64,38,Male,Johor,Silver,11,642,Clothing,5/10/2023,Software Developer,27,0,2,4
+65,28,Female,Negeri Sembilan,Gold,9,686,Home Goods,30/12/2023,Marketing Specialist,18,0,5,6
+66,45,Male,Perlis,Bronze,15,1333,Clothing,18/11/2023,Accountant,12,1,26,7
+67,32,Female,Kelantan,Silver,6,960,Electronics,12/12/2023,Architect,22,0,9,1
+68,39,Male,Terengganu,Bronze,1,877,Home Goods,25/11/2023,Graphic Designer,17,0,1,5
+69,26,Female,Sabah,Gold,19,1186,Clothing,15/09/2023,Financial Analyst,30,1,24,9
+70,43,Male,Sarawak,Bronze,9,748,Electronics,8/12/2023,Lawyer,27,0,1,4
+71,29,Female,Pahang,Gold,9,973,Home Goods,22/12/2023,Engineer,19,0,6,6
+72,34,Male,Selangor,Silver,25,1497,Clothing,8/11/2023,Teacher,14,1,29,6
+73,33,Female,Perak,Bronze,1,857,Electronics,25/12/2023,Doctor,23,0,9,2
+74,38,Male,Kuala Lumpur,Silver,9,814,Clothing,5/10/2023,Software Developer,27,0,1,5
+75,28,Female,Johor,Gold,25,1760,Home Goods,30/12/2023,Marketing Specialist,18,1,21,10
+76,45,Male,Negeri Sembilan,Bronze,1,722,Clothing,18/11/2023,Accountant,12,0,9,4
+77,32,Female,Perlis,Silver,12,648,Electronics,12/12/2023,Architect,22,0,6,5
+78,39,Male,Kelantan,Gold,18,1272,Home Goods,25/11/2023,Graphic Designer,17,1,21,9
+79,26,Female,Terengganu,Bronze,6,733,Clothing,15/09/2023,Financial Analyst,29,0,4,2
+80,43,Male,Sabah,Silver,5,920,Electronics,8/12/2023,Lawyer,27,0,8,3
+81,29,Female,Sarawak,Gold,16,1892,Clothing,22/12/2023,Engineer,19,1,10,9
+82,34,Male,Pahang,Bronze,15,769,Home Goods,8/11/2023,Teacher,14,0,2,3
+83,31,Female,Selangor,Silver,5,951,Electronics,25/12/2023,Doctor,21,0,9,4
+84,36,Male,Perak,Gold,24,1091,Clothing,5/10/2023,Software Developer,24,1,24,6
+85,26,Female,Kuala Lumpur,Bronze,12,966,Home Goods,30/12/2023,Marketing Specialist,16,0,1,2
+86,44,Male,Johor,Silver,5,527,Clothing,18/11/2023,Accountant,11,0,5,4
+87,33,Female,Negeri Sembilan,Gold,21,1537,Electronics,12/12/2023,Architect,23,1,19,8
+88,39,Male,Perlis,Bronze,13,559,Home Goods,25/11/2023,Graphic Designer,18,0,8,6
+89,28,Female,Kelantan,Silver,15,1000,Clothing,15/09/2023,Financial Analyst,29,0,2,3
+90,43,Male,Terengganu,Gold,23,1782,Electronics,8/12/2023,Lawyer,27,1,29,8
+91,29,Female,Sabah,Bronze,11,671,Clothing,22/12/2023,Engineer,19,0,3,5
+92,34,Male,Sarawak,Silver,6,885,Home Goods,8/11/2023,Teacher,14,0,7,2
+93,31,Female,Pahang,Gold,21,1414,Electronics,25/12/2023,Doctor,21,1,17,8
+94,36,Male,Selangor,Bronze,13,759,Clothing,5/10/2023,Software Developer,24,0,1,6
+95,26,Female,Perak,Silver,5,733,Home Goods,30/12/2023,Marketing Specialist,16,0,9,1
+96,44,Male,Kuala Lumpur,Gold,20,1388,Clothing,18/11/2023,Accountant,11,1,13,6
+97,33,Female,Johor,Bronze,9,721,Electronics,12/12/2023,Architect,23,0,3,2
+98,39,Male,Negeri Sembilan,Silver,6,650,Home Goods,25/11/2023,Graphic Designer,18,0,7,3
+99,28,Female,Perlis,Gold,21,1499,Clothing,15/09/2023,Financial Analyst,29,1,27,10
+100,43,Male,Kelantan,Bronze,10,760,Electronics,8/12/2023,Lawyer,27,0,6,4
+101,25,Male,Perakk,Silver,5,599,Home Goods,15/12/2023,Engineer,18,0,5,6
+102,30,Female,Kuala Lumpur,Gold,27,1920,Clothing,20/11/2023,Teacher,14,1,18,8
+103,40,Male,Johor,Bronze,6,912,Electronics,5/12/2023,Doctor,15,0,10,5
+104,35,Female,Negeri Sembilan,Silver,10,878,Home Goods,10/10/2023,Software Developer,26,0,8,5
+105,28,Male,Perlis,Gold,30,702,Clothing,28/12/2023,Marketing Specialist,22,1,13,9
+106,45,Female,Kelantan,Bronze,12,501,Electronics,2/11/2023,Accountant,18,0,4,5
+107,32,Male,Terengganu,Silver,13,919,Home Goods,18/12/2023,Architect,19,0,9,3
+108,38,Female,Sabah,Gold,25,1918,Clothing,15/11/2023,Graphic Designer,11,1,16,9
+109,27,Female,Sarawakk,Bronze,2,722,Electronics,30/09/2023,Financial Analyst,10,0,5,6
+110,42,Male,Pahangg,Silver,15,688,Home Goods,10/12/2023,Lawyer,27,0,9,5
+111,29,Female,Selangor,Gold,26,1335,Clothing,22/12/2023,Engineer,18,1,20,6
+112,34,Male,Perak,Bronze,15,942,Electronics,8/11/2023,Teacher,9,0,2,3
+113,31,Female,Kuala Lumpur,Silver,7,598,Home Goods,25/12/2023,Doctor,16,0,1,1
+114,36,Male,Johor,Gold,20,976,Clothing,5/10/2023,Software Developer,18,1,15,10
+115,26,Female,Negeri Sembilan,Bronze,3,976,Electronics,30/12/2023,Marketing Specialist,18,0,9,4
+116,44,Male,Perlis,Silver,15,766,Home Goods,18/11/2023,Accountant,18,0,2,2
+117,33,Female,Kelantan,Gold,20,1970,Clothing,12/12/2023,Architect,14,1,16,8
+118,39,Male,Terengganu,Bronze,5,693,Electronics,25/11/2023,Graphic Designer,25,0,10,3
+119,28,Female,Sabah,Silver,3,828,Home Goods,15/09/2023,Financial Analyst,15,0,3,3
+120,43,Male,Sarawak,Silver,20,1862,Clothing,8/12/2023,Lawyer,24,1,18,8
+121,30,Female,Pahang,Gold,13,849,Electronics,20/12/2023,Engineer,21,0,4,5
+122,35,Male,Selangor,Bronze,6,699,Home Goods,5/11/2023,Teacher,19,0,2,6
+123,41,Female,Perak,Silver,20,1145,Clothing,23/12/2023,Doctor,18,1,18,8
+124,37,Male,Kuala Lumpur,Gold,1,654,Electronics,15/10/2023,Software Developer,11,0,6,2
+125,29,Female,Johor,Bronze,15,625,Home Goods,28/12/2023,Marketing Specialist,28,0,1,4
+126,46,Male,Negeri Sembilan,Silver,24,1206,Clothing,12/11/2023,Accountant,10,1,15,7
+127,34,Female,Perlis,Gold,11,508,Electronics,18/12/2023,Architect,28,0,8,2
+128,40,Male,Kelantan,Bronze,12,792,Home Goods,20/11/2023,Graphic Designer,24,0,3,5
+129,27,Female,Terengganu,Silver,28,1589,Clothing,25/09/2023,Financial Analyst,9,1,17,6
+130,42,Male,Sabah,Gold,12,817,Electronics,10/12/2023,Lawyer,24,0,10,3
+131,31,Female,Sarawak,Bronze,14,716,Home Goods,22/12/2023,Engineer,8,0,8,4
+132,36,Male,Pahang,Silver,23,1749,Clothing,8/11/2023,Teacher,18,1,11,9
+133,33,Female,Selangor,Gold,5,588,Electronics,25/12/2023,Doctor,8,0,8,4
+134,38,Male,Perak,Bronze,15,540,Home Goods,5/10/2023,Software Developer,5,0,5,4
+135,28,Female,Kuala Lumpur,Silver,24,1103,Clothing,30/12/2023,Marketing Specialist,23,1,12,9
+136,45,Male,Johor,Gold,6,660,Electronics,18/11/2023,Accountant,22,0,2,6
+137,32,Female,Negeri Sembilan,Bronze,3,573,Home Goods,12/12/2023,Architect,26,0,1,4
+138,39,Male,Perlis,Silver,25,1429,Clothing,25/11/2023,Graphic Designer,24,1,19,10
+139,26,Female,Kelantan,Gold,2,833,Electronics,15/09/2023,Financial Analyst,14,0,1,5
+140,43,Male,Terengganu,Bronze,12,995,Home Goods,8/12/2023,Lawyer,14,0,8,4
+141,29,Female,Sabah,Silver,24,1866,Clothing,22/12/2023,Engineer,10,1,12,9
+142,34,Male,Sarawak,Silver,10,731,Electronics,8/11/2023,Teacher,30,0,1,3
+143,31,Female,Pahang,Gold,1,749,Home Goods,25/12/2023,Doctor,5,0,10,4
+144,36,Male,Selangor,Bronze,24,1330,Clothing,5/10/2023,Software Developer,17,1,15,10
+145,26,Female,Perak,Silver,1,678,Electronics,30/12/2023,Marketing Specialist,29,0,5,6
+146,44,Male,Kuala Lumpur,Gold,14,919,Home Goods,18/11/2023,Accountant,24,0,7,6
+147,33,Female,Johor,Bronze,18,1100,Clothing,12/12/2023,Architect,8,1,13,10
+148,39,Male,Negeri Sembilan,Silver,2,819,Electronics,25/11/2023,Graphic Designer,8,0,3,3
+149,28,Female,Perlis,Gold,12,811,Home Goods,15/09/2023,Financial Analyst,20,0,2,4
+150,43,Male,Kelantan,Bronze,30,1582,Clothing,8/12/2023,Lawyer,20,1,11,6
+151,31,Female,Perak,Silver,2,646,Electronics,20/12/2023,Engineer,8,0,5,3
+152,36,Male,Kuala Lumpur,Gold,12,701,Home Goods,5/11/2023,Teacher,24,0,2,6
+153,42,Female,Johor,Bronze,19,1420,Clothing,23/12/2023,Doctor,27,1,17,9
+154,38,Male,Negeri Sembilan,Silver,15,961,Electronics,15/10/2023,Software Developer,15,0,8,1
+155,30,Female,Perlis,Gold,3,715,Home Goods,28/12/2023,Marketing Specialist,9,0,4,1
+156,47,Male,Kelantan,Bronze,17,1257,Clothing,12/11/2023,Accountant,12,1,12,10
+157,34,Female,Terengganu,Silver,2,911,Electronics,18/12/2023,Architect,20,0,9,2
+158,40,Male,Sabah,Gold,11,560,Home Goods,20/11/2023,Graphic Designer,19,0,9,5
+159,29,Female,Sarawak,Bronze,22,1112,Clothing,25/09/2023,Financial Analyst,17,1,15,6
+160,44,Male,Pahang,Silver,10,665,Electronics,10/12/2023,Lawyer,16,0,4,4
+161,31,Female,Selangor,Gold,10,958,Home Goods,22/12/2023,Engineer,8,0,5,5
+162,36,Male,Perak,Bronze,21,746,Clothing,8/11/2023,Teacher,10,1,14,8
+163,33,Female,Kuala Lumpur,Silver,12,742,Electronics,25/12/2023,Doctor,27,0,10,3
+164,38,Male,Johor,Silver,13,678,Home Goods,5/10/2023,Software Developer,30,0,10,4
+165,28,Female,Negeri Sembilan,Gold,23,1375,Clothing,30/12/2023,Marketing Specialist,8,1,11,8
+166,45,Male,Perlis,Bronze,4,958,Electronics,18/11/2023,Accountant,6,0,3,2
+167,32,Female,Kelantan,Silver,9,625,Home Goods,12/12/2023,Architect,16,0,8,1
+168,39,Male,Terengganu,Gold,22,1003,Clothing,25/11/2023,Graphic Designer,28,1,10,8
+169,26,Female,Sabah,Bronze,5,707,Electronics,15/09/2023,Financial Analyst,16,0,4,2
+170,43,Male,Sarawak,Silver,9,828,Home Goods,8/12/2023,Lawyer,10,0,3,1
+171,29,Female,Pahang,Gold,19,1517,Clothing,22/12/2023,Engineer,23,1,10,9
+172,34,Male,Selangor,Bronze,4,638,Electronics,8/11/2023,Teacher,15,0,6,4
+173,33,Female,Perak,Silver,15,938,Home Goods,25/12/2023,Doctor,18,0,7,6
+174,38,Male,Kuala Lumpur,Gold,29,943,Clothing,5/10/2023,Software Developer,14,1,19,7
+175,28,Female,Johor,Bronze,12,951,Electronics,30/12/2023,Marketing Specialist,13,0,7,5
+176,45,Male,Negeri Sembilan,Silver,11,535,Home Goods,18/11/2023,Accountant,14,0,9,4
+177,32,Female,Perlis,Gold,26,1402,Clothing,12/12/2023,Architect,12,1,13,10
+178,39,Male,Kelantan,Bronze,1,938,Electronics,25/11/2023,Graphic Designer,20,0,2,5
+179,26,Female,Terengganu,Silver,11,995,Home Goods,15/09/2023,Financial Analyst,5,0,3,2
+180,43,Male,Sabah,Gold,27,1414,Clothing,8/12/2023,Lawyer,18,1,19,7
+181,29,Female,Sarawak,Bronze,14,567,Electronics,22/12/2023,Engineer,25,0,10,5
+182,34,Male,Pahang,Silver,7,988,Home Goods,8/11/2023,Teacher,29,0,6,3
+183,31,Female,Selangor,Gold,20,900,Clothing,25/12/2023,Doctor,21,1,16,6
+184,36,Male,Perak,Bronze,12,592,Electronics,5/10/2023,Software Developer,22,0,7,6
+185,26,Female,Kuala Lumpur,Silver,15,500,Home Goods,30/12/2023,Marketing Specialist,30,0,6,5
+186,44,Male,Johor,Silver,19,1815,Clothing,18/11/2023,Accountant,21,1,19,6
+187,33,Female,Negeri Sembilan,Gold,13,530,Electronics,12/12/2023,Architect,25,0,10,6
+188,39,Male,Perlis,Bronze,10,808,Home Goods,25/11/2023,Graphic Designer,24,0,3,3
+189,28,Female,Kelantan,Silver,15,1986,Clothing,15/09/2023,Financial Analyst,16,1,17,7
+190,43,Male,Terengganu,Gold,2,657,Electronics,8/12/2023,Lawyer,24,0,10,2
+191,29,Female,Sabah,Bronze,13,912,Home Goods,22/12/2023,Engineer,14,0,8,2
+192,34,Male,Sarawak,Silver,17,1660,Clothing,8/11/2023,Teacher,27,1,20,10
+193,31,Female,Pahang,Gold,12,760,Electronics,25/12/2023,Doctor,18,0,6,2
+194,36,Male,Selangor,Bronze,14,685,Home Goods,5/10/2023,Software Developer,10,0,5,6
+195,26,Female,Perak,Silver,19,759,Clothing,30/12/2023,Marketing Specialist,13,1,17,6
+196,44,Male,Kuala Lumpur,Gold,4,507,Electronics,18/11/2023,Accountant,23,0,10,3
+197,33,Female,Johor,Bronze,1,577,Home Goods,12/12/2023,Architect,12,0,3,2
+198,39,Male,Negeri Sembilan,Silver,20,1266,Clothing,25/11/2023,Graphic Designer,8,1,10,8
+199,28,Male,Perlis,Gold,2,774,Electronics,15/09/2023,Financial Analyst,17,0,8,6
+200,43,Female,Kelantan,Bronze,7,850,Home Goods,8/12/2023,Lawyer,20,0,2,3
+201,25,Male,Perak,Silver,19,1978,Clothing,15/12/2023,Engineer,20,1,19,10
+202,30,Female,Kuala Lumpur,Gold,3,833,Electronics,20/11/2023,Teacher,8,0,4,2
+203,40,Male,Johor,Bronze,10,836,Home Goods,5/12/2023,Doctor,26,0,2,6
+204,35,Female,Negeri Sembilan,Silver,23,1915,Clothing,10/10/2023,Software Developer,22,1,10,10
+205,28,Male,Perlis,Gold,1,825,Electronics,28/12/2023,Marketing Specialist,29,0,7,2
+206,45,Female,Kelantan,Bronze,8,565,Home Goods,2/11/2023,Accountant,5,0,2,1
+207,32,Female,Terengganu,Silver,22,1082,Clothing,18/12/2023,Architect,11,1,19,8
+208,38,Male,Sabah,Silver,9,814,Electronics,15/11/2023,Graphic Designer,23,0,3,2
+209,27,Female,Sarawak,Gold,12,525,Home Goods,30/09/2023,Financial Analyst,30,0,1,1
+210,42,Male,Pahang,Bronze,22,1553,Clothing,10/12/2023,Lawyer,5,1,18,8
+211,29,Female,Selangor,Silver,14,713,Electronics,22/12/2023,Engineer,28,0,10,6
+212,34,Male,Perak,Gold,15,760,Home Goods,8/11/2023,Teacher,22,0,9,5
+213,31,Female,Kuala Lumpur,Bronze,20,1482,Clothing,25/12/2023,Doctor,12,1,10,7
+214,36,Male,Johor,Silver,12,638,Electronics,5/10/2023,Software Developer,5,0,3,6
+215,26,Female,Negeri Sembilan,Gold,14,969,Home Goods,30/12/2023,Marketing Specialist,10,0,4,2
+216,44,Male,Perlis,Bronze,24,847,Clothing,18/11/2023,Accountant,14,1,20,8
+217,33,Female,Kelantan,Silver,7,825,Electronics,12/12/2023,Architect,13,0,3,5
+218,39,Male,Terengganu,Gold,15,621,Home Goods,25/11/2023,Graphic Designer,21,0,9,1
+219,28,Female,Sabah,Bronze,23,1539,Clothing,15/09/2023,Financial Analyst,7,1,10,9
+220,43,Male,Sarawak,Silver,10,946,Electronics,8/12/2023,Lawyer,11,0,10,3
+221,30,Female,Pahang,Gold,15,628,Home Goods,20/12/2023,Engineer,23,0,4,4
+222,35,Male,Selangor,Bronze,17,1395,Clothing,5/11/2023,Teacher,11,1,16,6
+223,41,Female,Perak,Silver,2,753,Electronics,23/12/2023,Doctor,6,0,5,5
+224,37,Male,Kuala Lumpur,Gold,10,619,Home Goods,15/10/2023,Software Developer,10,0,10,6
+225,29,Female,Johor,Bronze,26,706,Clothing,28/12/2023,Marketing Specialist,15,1,18,8
+226,46,Male,Negeri Sembilan,Silver,5,580,Electronics,12/11/2023,Accountant,21,0,1,1
+227,34,Female,Perlis,Gold,14,822,Home Goods,18/12/2023,Architect,15,0,5,1
+228,40,Male,Kelantan,Bronze,28,730,Clothing,20/11/2023,Graphic Designer,26,1,10,8
+229,27,Female,Terengganu,Silver,1,590,Electronics,25/09/2023,Financial Analyst,22,0,7,1
+230,42,Male,Sabah,Silver,12,680,Home Goods,10/12/2023,Lawyer,5,0,2,4
+231,31,Female,Sarawak,Gold,30,1253,Clothing,22/12/2023,Engineer,17,1,17,6
+232,36,Male,Pahang,Bronze,4,900,Electronics,8/11/2023,Teacher,28,0,4,1
+233,33,Female,Selangor,Silver,6,883,Home Goods,25/12/2023,Doctor,10,0,2,3
+234,38,Male,Perak,Gold,22,1394,Clothing,5/10/2023,Software Developer,24,1,19,10
+235,28,Female,Kuala Lumpur,Bronze,8,885,Electronics,30/12/2023,Marketing Specialist,17,0,9,2
+236,45,Male,Johor,Silver,11,633,Home Goods,18/11/2023,Accountant,13,0,3,3
+237,32,Female,Negeri Sembilan,Gold,23,1118,Clothing,12/12/2023,Architect,26,1,15,9
+238,39,Male,Perlis,Bronze,11,974,Electronics,25/11/2023,Graphic Designer,24,0,9,2
+239,26,Female,Kelantan,Silver,6,785,Home Goods,15/09/2023,Financial Analyst,23,0,2,5
+240,43,Male,Terengganu,Gold,18,1175,Clothing,8/12/2023,Lawyer,7,1,12,10
+241,29,Female,Sabah,Bronze,14,856,Electronics,22/12/2023,Engineer,22,0,1,5
+242,34,Male,Sarawak,Silver,13,529,Home Goods,8/11/2023,Teacher,29,0,8,6
+243,31,Female,Pahang,Gold,24,912,Clothing,25/12/2023,Doctor,29,1,15,9
+244,36,Male,Selangor,Bronze,10,607,Electronics,5/10/2023,Software Developer,10,,6,4
+245,26,Female,Perak,Silver,14,882,Home Goods,30/12/2023,Marketing Specialist,19,,10,3
+246,44,Male,Kuala Lumpur,Gold,16,730,Clothing,18/11/2023,Accountant,26,1,13,10
+247,33,Female,Johor,Bronze,5,701,Electronics,12/12/2023,Architect,16,,10,1
+248,39,Male,Negeri Sembilan,Silver,15,722,Home Goods,25/11/2023,Graphic Designer,27,,9,2
+249,28,Female,Perlis,Gold,22,1036,Clothing,15/09/2023,Financial Analyst,17,1,18,7
+250,43,Male,Kelantan,Bronze,10,732,Electronics,8/12/2023,Lawyer,27,0,4,3

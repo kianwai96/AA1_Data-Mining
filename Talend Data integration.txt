@@ -1,0 +1,6 @@
+Talend Data integration
+
+1） Add 2 tFileInputDelimited components and import the csv files
+2) Add Tmap component in order to merge the files with customer ID being the key to merge them.
+3) Add tFileOutputDelimited to output a csv file
+4) This will be imported into Talend Data Preparation
